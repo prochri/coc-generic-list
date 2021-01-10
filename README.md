@@ -2,17 +2,12 @@
 
 generic list for coc
 
-## Install
 
-`:CocInstall generic-list`
+## List usage
 
-## Keymaps
+`:CocList generic listFunction openFunction`
 
-`nmap <silent> <C-l> <Plug>(coc-generic-list-keymap)`
-
-## Lists
-
-`:CocList demo_list`
+Use `:CocList` for any vim function outputting a string list and set a custom open action.
 
 ## License
 

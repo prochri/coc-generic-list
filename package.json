@@ -1,5 +1,5 @@
 {
-  "name": "generic-list",
+  "name": "coc-generic-list",
   "version": "0.0.0-development",
   "description": "generic list for coc",
   "author": "Christoph Probst <christophprobst99@web.de>",
@@ -52,12 +52,6 @@
           "description": "Enable generic-list extension"
         }
       }
-    },
-    "commands": [
-      {
-        "command": "generic-list.Command",
-        "title": "generic-list command title"
-      }
-    ]
+    }
   }
 }
